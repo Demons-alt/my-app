@@ -10,7 +10,7 @@ import HomePage from './containers/home';
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/my-app",
       element:<HomePage />,
     },
   ]);
